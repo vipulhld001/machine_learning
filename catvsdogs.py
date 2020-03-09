@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import os
 import cv2
 
-DATADIR ="D:\DeepLear\CATSVSDOG\PetImages"
+DATADIR ="D:\DeepLear\CATSVSDOG\PetImages"#Add your own path
 CATEGORIES = ["cat","dog"]
 
 for category in CATEGORIES:
